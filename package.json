@@ -1,0 +1,13 @@
+{
+  "name": "vps-starter",
+  "version": "1.0.0",
+  "description": "Aplikasi Node.js minimal untuk deploy di VPS Ubuntu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
